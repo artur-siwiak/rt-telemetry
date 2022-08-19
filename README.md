@@ -1,2 +1,2 @@
 # rt-telemetry
-Realtime telemetry client for racing games
+Nothing to see here right now ;)
